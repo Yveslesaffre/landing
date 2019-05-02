@@ -1,0 +1,16 @@
+
+.button {
+  color: white;
+  background: #ff0000;
+  border: 1px solid;
+  padding: 15px 25px;
+  border-radius: 50px;
+  font-weight: bold;
+  opacity: 0.6;
+  display: inline-block;
+}
+
+.button:hover {
+  background: hotpink;
+}
+
